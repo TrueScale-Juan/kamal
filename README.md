@@ -1,2 +1,4 @@
 # kamal
-Development, QA, Prod
+Development.
+
+Simplifying QA, and Prod.
